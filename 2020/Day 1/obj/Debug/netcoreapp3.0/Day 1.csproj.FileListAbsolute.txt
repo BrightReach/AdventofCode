@@ -1,0 +1,11 @@
+D:\Documents\Bright Reach Studio\Advent of Code\2020\Day 1\obj\Debug\netcoreapp3.0\Day 1.csprojAssemblyReference.cache
+D:\Documents\Bright Reach Studio\Advent of Code\2020\Day 1\obj\Debug\netcoreapp3.0\Day 1.AssemblyInfoInputs.cache
+D:\Documents\Bright Reach Studio\Advent of Code\2020\Day 1\obj\Debug\netcoreapp3.0\Day 1.AssemblyInfo.cs
+D:\Documents\Bright Reach Studio\Advent of Code\2020\Day 1\bin\Debug\netcoreapp3.0\Day 1.exe
+D:\Documents\Bright Reach Studio\Advent of Code\2020\Day 1\bin\Debug\netcoreapp3.0\Day 1.deps.json
+D:\Documents\Bright Reach Studio\Advent of Code\2020\Day 1\bin\Debug\netcoreapp3.0\Day 1.runtimeconfig.json
+D:\Documents\Bright Reach Studio\Advent of Code\2020\Day 1\bin\Debug\netcoreapp3.0\Day 1.runtimeconfig.dev.json
+D:\Documents\Bright Reach Studio\Advent of Code\2020\Day 1\bin\Debug\netcoreapp3.0\Day 1.dll
+D:\Documents\Bright Reach Studio\Advent of Code\2020\Day 1\bin\Debug\netcoreapp3.0\Day 1.pdb
+D:\Documents\Bright Reach Studio\Advent of Code\2020\Day 1\obj\Debug\netcoreapp3.0\Day 1.dll
+D:\Documents\Bright Reach Studio\Advent of Code\2020\Day 1\obj\Debug\netcoreapp3.0\Day 1.pdb
