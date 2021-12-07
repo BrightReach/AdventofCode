@@ -1,0 +1,15 @@
+D:\cboyl\Documents\Bright Reach Studio\Personal Projects\AdventofCode\2021\Day 1\obj\Debug\net6.0\Day 1.csproj.AssemblyReference.cache
+D:\cboyl\Documents\Bright Reach Studio\Personal Projects\AdventofCode\2021\Day 1\obj\Debug\net6.0\Day 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\cboyl\Documents\Bright Reach Studio\Personal Projects\AdventofCode\2021\Day 1\obj\Debug\net6.0\Day 1.AssemblyInfoInputs.cache
+D:\cboyl\Documents\Bright Reach Studio\Personal Projects\AdventofCode\2021\Day 1\obj\Debug\net6.0\Day 1.AssemblyInfo.cs
+D:\cboyl\Documents\Bright Reach Studio\Personal Projects\AdventofCode\2021\Day 1\obj\Debug\net6.0\Day 1.csproj.CoreCompileInputs.cache
+D:\cboyl\Documents\Bright Reach Studio\Personal Projects\AdventofCode\2021\Day 1\bin\Debug\net6.0\Day 1.exe
+D:\cboyl\Documents\Bright Reach Studio\Personal Projects\AdventofCode\2021\Day 1\bin\Debug\net6.0\Day 1.deps.json
+D:\cboyl\Documents\Bright Reach Studio\Personal Projects\AdventofCode\2021\Day 1\bin\Debug\net6.0\Day 1.runtimeconfig.json
+D:\cboyl\Documents\Bright Reach Studio\Personal Projects\AdventofCode\2021\Day 1\bin\Debug\net6.0\Day 1.dll
+D:\cboyl\Documents\Bright Reach Studio\Personal Projects\AdventofCode\2021\Day 1\bin\Debug\net6.0\ref\Day 1.dll
+D:\cboyl\Documents\Bright Reach Studio\Personal Projects\AdventofCode\2021\Day 1\bin\Debug\net6.0\Day 1.pdb
+D:\cboyl\Documents\Bright Reach Studio\Personal Projects\AdventofCode\2021\Day 1\obj\Debug\net6.0\Day 1.dll
+D:\cboyl\Documents\Bright Reach Studio\Personal Projects\AdventofCode\2021\Day 1\obj\Debug\net6.0\ref\Day 1.dll
+D:\cboyl\Documents\Bright Reach Studio\Personal Projects\AdventofCode\2021\Day 1\obj\Debug\net6.0\Day 1.pdb
+D:\cboyl\Documents\Bright Reach Studio\Personal Projects\AdventofCode\2021\Day 1\obj\Debug\net6.0\Day 1.genruntimeconfig.cache
